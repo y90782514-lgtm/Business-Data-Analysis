@@ -1,0 +1,4 @@
+chapter01/data/trans.csv
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
